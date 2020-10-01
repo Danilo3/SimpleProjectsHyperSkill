@@ -1,2 +1,2 @@
-# SimpleChatBot
-[Hyperskill First project](https://hyperskill.org/curriculum#about)
+# Simple Projects from Hyperskill
+[Hyperskill First projects](https://hyperskill.org/curriculum#about)
